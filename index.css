@@ -1,0 +1,49 @@
+header{
+    background-color: rgb(189, 146, 229, 0.6);
+    width: 100%;
+    position: fixed;}
+
+nav{
+   
+    float:right;
+}
+    
+nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+
+nav ul li{
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+
+nav ul li a{
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+}
+
+nav ul li a:hover{
+    background: #ca93dc;
+}
+
+nav h2{
+    float:left;
+}
+
+html {
+    background-color: #eae6e1;
+
+}
+body {
+    min-height: 100vh;
+    min-width: 100%
+    
+
+}
+
+main {
+    position: fixed;
+}
